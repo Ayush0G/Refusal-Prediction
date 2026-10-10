@@ -1,0 +1,211 @@
+CHANNEL_KEY,0,1,2,3
+1,Country-wide,Connectivity,Repeater,Y
+2,Contact center,,Repeater,Y
+3,Credit and cash offices,,Repeater,Y
+4,Country-wide,Consumer electronics,New,Y
+5,Stone,Consumer electronics,New,Y
+6,Regional / Local,Industry,New,Y
+7,Stone,Consumer electronics,Repeater,Y
+8,AP+ (Cash loan),,Repeater,Y
+9,Country-wide,Consumer electronics,Repeater,Y
+10,Stone,Connectivity,New,Y
+11,Country-wide,Connectivity,Refreshed,Y
+12,Stone,Consumer electronics,Refreshed,Y
+13,Regional / Local,Consumer electronics,Repeater,Y
+14,Country-wide,Connectivity,New,Y
+15,Credit and cash offices,,New,Y
+16,Regional / Local,Consumer electronics,Refreshed,Y
+17,Regional / Local,Consumer electronics,New,Y
+18,Stone,,Repeater,Y
+19,Stone,Clothing,New,Y
+20,Stone,Furniture,New,Y
+21,Stone,Industry,Refreshed,Y
+22,Stone,Connectivity,Repeater,Y
+23,Stone,Industry,New,Y
+24,Stone,Furniture,Repeater,Y
+25,Country-wide,Construction,New,Y
+26,Stone,Clothing,Repeater,Y
+27,Country-wide,Furniture,Repeater,Y
+28,Stone,Construction,Repeater,Y
+29,Regional / Local,Jewelry,Repeater,Y
+30,Stone,Construction,Refreshed,Y
+31,Stone,Construction,New,Y
+32,Country-wide,Consumer electronics,Refreshed,Y
+33,Stone,Industry,Repeater,Y
+34,Country-wide,Consumer electronics,Repeater,N
+35,Regional / Local,Connectivity,Repeater,Y
+36,AP+ (Cash loan),,Refreshed,Y
+37,Regional / Local,Connectivity,New,Y
+38,Regional / Local,Construction,Repeater,Y
+39,Country-wide,Jewelry,Repeater,Y
+40,Stone,Auto technology,Repeater,Y
+41,Regional / Local,Clothing,New,Y
+42,Credit and cash offices,,Refreshed,Y
+43,AP+ (Cash loan),,Repeater,N
+44,Regional / Local,Furniture,Refreshed,Y
+45,Channel of corporate sales,,Repeater,Y
+46,Country-wide,Furniture,New,Y
+47,Country-wide,Furniture,Refreshed,Y
+48,Credit and cash offices,,Repeater,N
+49,Country-wide,Connectivity,Repeater,N
+50,AP+ (Cash loan),,New,Y
+51,Regional / Local,Furniture,Repeater,Y
+52,Regional / Local,Furniture,New,Y
+53,Country-wide,Industry,New,Y
+54,Regional / Local,Clothing,Refreshed,Y
+55,Country-wide,Clothing,Refreshed,Y
+56,Country-wide,MLM partners,Repeater,Y
+57,Car dealer,Industry,Repeater,Y
+58,Regional / Local,Construction,New,Y
+59,Stone,Furniture,Refreshed,Y
+60,Country-wide,Clothing,Repeater,Y
+61,Regional / Local,Industry,Repeater,Y
+62,Stone,Connectivity,Refreshed,Y
+63,Country-wide,Industry,Repeater,Y
+64,Regional / Local,Auto technology,Repeater,Y
+65,Channel of corporate sales,,Refreshed,Y
+66,Regional / Local,Clothing,Repeater,Y
+67,Country-wide,Clothing,New,Y
+68,Regional / Local,Construction,Refreshed,Y
+69,Country-wide,Construction,Repeater,Y
+70,Stone,MLM partners,Repeater,Y
+71,Stone,Auto technology,New,Y
+72,Regional / Local,Connectivity,Refreshed,Y
+73,Country-wide,Industry,Refreshed,Y
+74,Channel of corporate sales,,Repeater,N
+75,Contact center,Furniture,Repeater,Y
+76,Contact center,,Refreshed,Y
+77,Regional / Local,MLM partners,Repeater,Y
+78,Country-wide,,New,Y
+79,Credit and cash offices,,,Y
+80,Contact center,,Repeater,N
+81,Stone,MLM partners,New,Y
+82,Stone,Clothing,Refreshed,Y
+83,Country-wide,Consumer electronics,,Y
+84,Channel of corporate sales,,New,Y
+85,AP+ (Cash loan),Industry,Repeater,Y
+86,Country-wide,,Repeater,Y
+87,Stone,Furniture,Repeater,N
+88,Regional / Local,Auto technology,New,Y
+89,Credit and cash offices,,Refreshed,N
+90,Country-wide,Auto technology,Repeater,Y
+91,Stone,Jewelry,Repeater,Y
+92,Country-wide,,Refreshed,Y
+93,Country-wide,Auto technology,New,Y
+94,Stone,,Refreshed,Y
+95,Car dealer,Industry,New,Y
+96,Stone,Auto technology,Refreshed,Y
+97,Regional / Local,MLM partners,New,Y
+98,Stone,Jewelry,New,Y
+99,Stone,Consumer electronics,Repeater,N
+100,Stone,Tourism,Repeater,Y
+101,Country-wide,Connectivity,,Y
+102,Contact center,,New,Y
+103,Regional / Local,Industry,Refreshed,Y
+104,Country-wide,Jewelry,Refreshed,Y
+105,AP+ (Cash loan),,Refreshed,N
+106,Stone,Jewelry,Refreshed,Y
+107,Stone,Tourism,New,Y
+108,Country-wide,Construction,Refreshed,Y
+109,Regional / Local,,Repeater,Y
+110,Stone,Consumer electronics,,Y
+111,Regional / Local,Consumer electronics,Repeater,N
+112,Stone,Construction,,Y
+113,Stone,Connectivity,Repeater,N
+114,Country-wide,Jewelry,New,Y
+115,Channel of corporate sales,,Refreshed,N
+116,Country-wide,MLM partners,New,Y
+117,Regional / Local,Consumer electronics,,Y
+118,Regional / Local,Auto technology,Refreshed,Y
+119,Country-wide,MLM partners,Refreshed,Y
+120,AP+ (Cash loan),Consumer electronics,New,Y
+121,AP+ (Cash loan),Furniture,Repeater,Y
+122,Stone,Clothing,,Y
+123,Regional / Local,Jewelry,Refreshed,Y
+124,Stone,Construction,Repeater,N
+125,Stone,Tourism,Refreshed,Y
+126,Regional / Local,Connectivity,Repeater,N
+127,Regional / Local,,New,Y
+128,Channel of corporate sales,Furniture,New,Y
+129,Country-wide,Furniture,Refreshed,N
+130,Stone,MLM partners,Refreshed,Y
+131,Regional / Local,Jewelry,New,Y
+132,Country-wide,Auto technology,Refreshed,Y
+133,Car dealer,Industry,Refreshed,Y
+134,Regional / Local,,Refreshed,Y
+135,AP+ (Cash loan),Industry,New,Y
+136,Country-wide,Consumer electronics,Refreshed,N
+137,AP+ (Cash loan),Furniture,New,Y
+138,Country-wide,Connectivity,Refreshed,N
+139,Country-wide,Furniture,,Y
+140,Country-wide,Tourism,Repeater,Y
+141,Regional / Local,Clothing,,Y
+142,Country-wide,Furniture,Repeater,N
+143,Channel of corporate sales,,,Y
+144,Channel of corporate sales,Furniture,Repeater,Y
+145,AP+ (Cash loan),,,Y
+146,Stone,,New,Y
+147,Country-wide,Consumer electronics,New,N
+148,Regional / Local,MLM partners,Refreshed,Y
+149,Credit and cash offices,,New,N
+150,Country-wide,Jewelry,,Y
+151,Country-wide,Jewelry,Repeater,N
+152,Credit and cash offices,MLM partners,Repeater,N
+153,Stone,Furniture,,Y
+154,Stone,Furniture,Refreshed,N
+155,Country-wide,Tourism,New,Y
+156,Credit and cash offices,MLM partners,Repeater,Y
+157,Credit and cash offices,MLM partners,Refreshed,Y
+158,AP+ (Cash loan),Industry,Refreshed,Y
+159,AP+ (Cash loan),Consumer electronics,Repeater,Y
+160,Contact center,,,Y
+161,Regional / Local,Furniture,Refreshed,N
+162,Regional / Local,Consumer electronics,Refreshed,N
+163,Regional / Local,Connectivity,Refreshed,N
+164,Regional / Local,Furniture,Repeater,N
+165,Stone,Connectivity,,Y
+166,Country-wide,Tourism,Refreshed,Y
+167,Country-wide,Connectivity,New,N
+168,Regional / Local,Tourism,Repeater,Y
+169,Contact center,,Refreshed,N
+170,Contact center,Furniture,Refreshed,Y
+171,Stone,Clothing,Repeater,N
+172,Regional / Local,Connectivity,,Y
+173,Credit and cash offices,Industry,New,Y
+174,Stone,Consumer electronics,Refreshed,N
+175,Regional / Local,Clothing,Repeater,N
+176,Stone,Industry,Repeater,N
+177,AP+ (Cash loan),Consumer electronics,Refreshed,Y
+178,Regional / Local,MLM partners,,Y
+179,Regional / Local,Consumer electronics,,N
+180,Stone,,,Y
+181,Stone,Auto technology,,Y
+182,Channel of corporate sales,,New,N
+183,Stone,Connectivity,Refreshed,N
+184,Contact center,Furniture,New,Y
+185,Regional / Local,Tourism,New,Y
+186,Country-wide,Clothing,,Y
+187,Stone,Consumer electronics,New,N
+188,AP+ (Cash loan),Furniture,Repeater,N
+189,Credit and cash offices,Industry,Repeater,Y
+190,Channel of corporate sales,Furniture,Refreshed,Y
+191,Stone,Jewelry,,Y
+192,Credit and cash offices,Industry,Refreshed,Y
+193,Stone,Auto technology,Repeater,N
+194,Credit and cash offices,Furniture,Repeater,Y
+195,Regional / Local,Construction,,Y
+196,Stone,Consumer electronics,,N
+197,AP+ (Cash loan),Industry,Repeater,N
+198,AP+ (Cash loan),Connectivity,Repeater,Y
+199,Regional / Local,Furniture,,Y
+200,Country-wide,,,Y
+201,Country-wide,Construction,,Y
+202,Country-wide,Clothing,Repeater,N
+203,Regional / Local,Construction,Repeater,N
+204,Country-wide,MLM partners,,Y
+205,Stone,MLM partners,,Y
+206,Regional / Local,,Refreshed,N
+207,Regional / Local,Tourism,Refreshed,Y
+208,Credit and cash offices,Consumer electronics,Refreshed,Y
+209,Credit and cash offices,MLM partners,Refreshed,N
+210,AP+ (Cash loan),,,N

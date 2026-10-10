@@ -1,0 +1,436 @@
+PRODUCT_KEY,0,1,2,3,4,5
+1,Consumer loans,,POS,Mobile,middle,Cash through the bank
+2,Cash loans,x-sell,Cash,,low_action,
+3,Cash loans,x-sell,Cash,,high,Cash through the bank
+4,Cash loans,x-sell,Cash,,middle,Cash through the bank
+5,Cash loans,walk-in,Cash,,high,Cash through the bank
+6,Cash loans,x-sell,Cash,,low_normal,Cash through the bank
+7,Consumer loans,,POS,Consumer Electronics,low_action,Cash through the bank
+8,Consumer loans,,POS,Construction Materials,middle,Cash through the bank
+9,Consumer loans,,POS,Auto Accessories,low_normal,Cash through the bank
+10,Consumer loans,,POS,Photo / Cinema Equipment,high,Cash through the bank
+11,Revolving loans,x-sell,Cards,,,
+12,Cash loans,walk-in,Cash,,high,
+13,Cash loans,,,,,
+14,Cash loans,x-sell,Cash,,middle,
+15,Cash loans,x-sell,Cash,,high,
+16,Consumer loans,,POS,Mobile,low_normal,Cash through the bank
+17,Consumer loans,,POS,Photo / Cinema Equipment,middle,Cash through the bank
+18,Consumer loans,,POS,Computers,low_normal,Cash through the bank
+19,Consumer loans,,POS,Audio/Video,middle,Cash through the bank
+20,Consumer loans,,POS,Consumer Electronics,high,Cash through the bank
+21,Consumer loans,,POS,Audio/Video,low_action,
+22,Consumer loans,,POS,Mobile,high,Cash through the bank
+23,Consumer loans,,POS,Consumer Electronics,middle,Cash through the bank
+24,Revolving loans,walk-in,Cards,,,
+25,Consumer loans,,POS,Computers,middle,Cash through the bank
+26,Consumer loans,,POS,Computers,low_action,Cash through the bank
+27,Consumer loans,,POS,Medicine,low_normal,Cash through the bank
+28,Consumer loans,,POS,Audio/Video,low_action,Cash through the bank
+29,Consumer loans,,POS,Photo / Cinema Equipment,low_normal,Cash through the bank
+30,Consumer loans,,POS,Clothing and Accessories,middle,Cash through the bank
+31,Cash loans,walk-in,Cash,,low_normal,Cash through the bank
+32,Consumer loans,,POS,Furniture,middle,Cash through the bank
+33,Consumer loans,,POS,Audio/Video,high,Cash through the bank
+34,Revolving loans,,,,,
+35,Consumer loans,,POS,Medicine,low_action,Cash through the bank
+36,Consumer loans,,POS,Consumer Electronics,low_normal,Cash through the bank
+37,Consumer loans,,POS,Mobile,high,
+38,Consumer loans,,POS,Sport and Leisure,low_normal,Cash through the bank
+39,Consumer loans,,POS,Furniture,high,Cash through the bank
+40,Consumer loans,,POS,Homewares,low_normal,Cash through the bank
+41,Consumer loans,,POS,Clothing and Accessories,low_normal,Cash through the bank
+42,Consumer loans,,POS,Gardening,low_action,Cash through the bank
+43,Consumer loans,,POS,,middle,Cash through the bank
+44,Consumer loans,,POS,Computers,high,
+45,Consumer loans,,POS,Computers,high,Cash through the bank
+46,Consumer loans,,,Mobile,,Cash through the bank
+47,Consumer loans,,POS,Audio/Video,high,
+48,Consumer loans,,POS,Furniture,low_normal,
+49,Consumer loans,,POS,Construction Materials,high,Cash through the bank
+50,Consumer loans,,,Computers,,Cash through the bank
+51,Consumer loans,,POS,,low_normal,
+52,Consumer loans,,POS,Audio/Video,low_normal,Cash through the bank
+53,Consumer loans,,POS,Furniture,low_normal,Cash through the bank
+54,Consumer loans,,POS,Sport and Leisure,middle,Cash through the bank
+55,Consumer loans,,POS,Sport and Leisure,high,Cash through the bank
+56,Consumer loans,,POS,Mobile,high,Non-cash from your account
+57,Consumer loans,,POS,Construction Materials,low_normal,Cash through the bank
+58,Consumer loans,,POS,Consumer Electronics,low_normal,
+59,Consumer loans,,POS,Gardening,low_normal,
+60,Consumer loans,,POS,Jewelry,middle,Cash through the bank
+61,Consumer loans,,POS,,low_action,Cash through the bank
+62,Consumer loans,,POS,Consumer Electronics,middle,
+63,Cash loans,walk-in,Cash,,low_action,Cash through the bank
+64,Consumer loans,,POS,Vehicles,low_normal,Cash through the bank
+65,Consumer loans,,POS,Construction Materials,middle,
+66,Consumer loans,,POS,Computers,low_normal,
+67,Consumer loans,,POS,,high,Cash through the bank
+68,Consumer loans,,POS,Construction Materials,low_normal,
+69,Consumer loans,,POS,Construction Materials,low_action,
+70,Consumer loans,,POS,Furniture,middle,
+71,Consumer loans,,POS,Consumer Electronics,high,
+72,Cash loans,x-sell,Cash,,middle,Non-cash from your account
+73,Cash loans,x-sell,Cash,,low_action,Cash through the bank
+74,Consumer loans,,POS,Auto Accessories,low_normal,
+75,Consumer loans,,POS,Mobile,low_normal,
+76,Consumer loans,,POS,Homewares,middle,Cash through the bank
+77,Consumer loans,,POS,Education,middle,
+78,Consumer loans,,POS,Vehicles,high,Cash through the bank
+79,Consumer loans,,POS,Construction Materials,low_action,Cash through the bank
+80,Consumer loans,,POS,Computers,middle,
+81,Consumer loans,,POS,Audio/Video,middle,
+82,Consumer loans,,POS,Furniture,high,
+83,Consumer loans,,POS,Medical Supplies,low_normal,Cash through the bank
+84,Cash loans,walk-in,Cash,,middle,Cash through the bank
+85,Consumer loans,,POS,Auto Accessories,middle,Cash through the bank
+86,Consumer loans,,POS,Consumer Electronics,low_normal,Non-cash from your account
+87,Cash loans,x-sell,Cash,,low_normal,
+88,Consumer loans,,POS,Furniture,low_action,
+89,Consumer loans,,POS,Homewares,low_normal,
+90,Consumer loans,,POS,Auto Accessories,high,Cash through the bank
+91,Consumer loans,,POS,Clothing and Accessories,low_normal,Cashless from the account of the employer
+92,Consumer loans,,POS,Mobile,middle,
+93,Consumer loans,,POS,,low_action,
+94,Consumer loans,,POS,Photo / Cinema Equipment,low_action,Cash through the bank
+95,Consumer loans,,POS,,low_normal,Cash through the bank
+96,Consumer loans,,POS,Other,low_normal,Cash through the bank
+97,Cash loans,walk-in,Cash,,middle,
+98,Consumer loans,,POS,Photo / Cinema Equipment,high,
+99,Consumer loans,,POS,Computers,middle,Non-cash from your account
+100,Consumer loans,,POS,Audio/Video,high,Non-cash from your account
+101,Consumer loans,,POS,Direct Sales,low_normal,Cash through the bank
+102,Consumer loans,,POS,Clothing and Accessories,low_action,Cash through the bank
+103,Consumer loans,,POS,Mobile,low_action,Cash through the bank
+104,Consumer loans,,,Consumer Electronics,,Cash through the bank
+105,Consumer loans,,POS,Furniture,low_action,Cash through the bank
+106,Consumer loans,,POS,Auto Accessories,middle,
+107,Consumer loans,,POS,Vehicles,middle,Cash through the bank
+108,Consumer loans,,POS,Jewelry,low_action,Cash through the bank
+109,Consumer loans,,,Audio/Video,,Cash through the bank
+110,Consumer loans,,POS,Computers,low_action,
+111,Consumer loans,,POS,Sport and Leisure,low_normal,
+112,Consumer loans,,POS,Mobile,high,Cashless from the account of the employer
+113,Consumer loans,,POS,Audio/Video,low_action,Non-cash from your account
+114,Consumer loans,,POS,Medicine,low_normal,
+115,Consumer loans,,POS,Office Appliances,low_normal,Cash through the bank
+116,Consumer loans,,POS,Furniture,low_normal,Non-cash from your account
+117,Consumer loans,,POS,Audio/Video,low_normal,
+118,Consumer loans,,POS,,high,
+119,Consumer loans,,POS,Medical Supplies,low_normal,
+120,Consumer loans,,POS,Office Appliances,middle,Cash through the bank
+121,Consumer loans,,POS,Jewelry,middle,
+122,Consumer loans,,POS,Photo / Cinema Equipment,middle,
+123,Consumer loans,,POS,Mobile,low_normal,Non-cash from your account
+124,Consumer loans,,POS,Audio/Video,low_normal,Non-cash from your account
+125,Consumer loans,,POS,Consumer Electronics,low_action,
+126,Consumer loans,,POS,Photo / Cinema Equipment,low_normal,
+127,Cash loans,walk-in,Cash,,low_normal,
+128,Consumer loans,,POS,Other,middle,Cash through the bank
+129,Consumer loans,,,Furniture,,Cash through the bank
+130,Consumer loans,,POS,Direct Sales,low_normal,
+131,Consumer loans,,POS,Fitness,low_normal,
+132,Consumer loans,,POS,Fitness,low_normal,Cash through the bank
+133,Consumer loans,,POS,Homewares,low_action,Cash through the bank
+134,Consumer loans,,POS,Office Appliances,high,Cash through the bank
+135,Consumer loans,,POS,Computers,high,Cashless from the account of the employer
+136,Consumer loans,,POS,Office Appliances,middle,
+137,Cash loans,x-sell,Cash,,low_normal,Non-cash from your account
+138,Consumer loans,,POS,Clothing and Accessories,low_normal,
+139,Consumer loans,,POS,Gardening,high,Cash through the bank
+140,Consumer loans,,POS,Education,middle,Cash through the bank
+141,Consumer loans,,,Audio/Video,,
+142,Consumer loans,,POS,Gardening,middle,Cash through the bank
+143,Consumer loans,,,Office Appliances,,Cash through the bank
+144,Consumer loans,,POS,Construction Materials,high,
+145,Consumer loans,,,Mobile,,
+146,Consumer loans,,POS,Medical Supplies,low_action,Cash through the bank
+147,Consumer loans,,POS,Office Appliances,high,Non-cash from your account
+148,Consumer loans,,POS,Homewares,low_action,
+149,Consumer loans,,POS,Tourism,low_normal,Cash through the bank
+150,Consumer loans,,POS,Auto Accessories,low_action,Cash through the bank
+151,Consumer loans,,POS,Audio/Video,middle,Non-cash from your account
+152,Consumer loans,,POS,Education,low_normal,Cash through the bank
+153,Consumer loans,,POS,Mobile,middle,Non-cash from your account
+154,Consumer loans,,POS,Computers,low_normal,Cashless from the account of the employer
+155,Consumer loans,,POS,Medical Supplies,low_action,
+156,Consumer loans,,POS,Clothing and Accessories,high,Cash through the bank
+157,Consumer loans,,POS,Clothing and Accessories,middle,
+158,Cash loans,walk-in,Cash,,high,Cashless from the account of the employer
+159,Consumer loans,,POS,Sport and Leisure,middle,
+160,Consumer loans,,POS,Sport and Leisure,high,
+161,Consumer loans,,POS,Office Appliances,low_action,Cash through the bank
+162,Consumer loans,,POS,Jewelry,low_normal,Cash through the bank
+163,Consumer loans,,,Photo / Cinema Equipment,,Cash through the bank
+164,Consumer loans,,POS,Computers,high,Non-cash from your account
+165,Revolving loans,x-sell,Cards,Audio/Video,,
+166,Consumer loans,,POS,Vehicles,high,Non-cash from your account
+167,Consumer loans,,POS,Tourism,low_action,
+168,Consumer loans,,POS,Sport and Leisure,middle,Non-cash from your account
+169,Consumer loans,,POS,Gardening,middle,
+170,Consumer loans,,POS,Audio/Video,middle,Cashless from the account of the employer
+171,Consumer loans,,POS,Gardening,low_normal,Cash through the bank
+172,Consumer loans,,POS,Consumer Electronics,middle,Non-cash from your account
+173,Consumer loans,,POS,Furniture,middle,Cashless from the account of the employer
+174,Consumer loans,,POS,Office Appliances,high,
+175,Consumer loans,,POS,Other,high,Cash through the bank
+176,Consumer loans,,POS,,middle,
+177,Consumer loans,,POS,Medicine,middle,Cash through the bank
+178,Consumer loans,,POS,Other,low_normal,
+179,Consumer loans,,POS,Clothing and Accessories,low_action,
+180,Consumer loans,,POS,Medical Supplies,middle,Cash through the bank
+181,Consumer loans,,POS,Jewelry,high,Cash through the bank
+182,Consumer loans,,POS,Vehicles,middle,
+183,Consumer loans,,POS,Construction Materials,low_action,Non-cash from your account
+184,Consumer loans,,POS,Tourism,low_normal,Cashless from the account of the employer
+185,Consumer loans,,POS,Tourism,middle,Cash through the bank
+186,Consumer loans,,POS,Photo / Cinema Equipment,low_normal,Non-cash from your account
+187,Consumer loans,,POS,Construction Materials,low_normal,Non-cash from your account
+188,Consumer loans,,Cars,,low_normal,Cash through the bank
+189,Cash loans,,,,,Cash through the bank
+190,Cash loans,walk-in,Cash,,high,Non-cash from your account
+191,Consumer loans,,POS,Mobile,low_action,
+192,Consumer loans,,POS,Vehicles,low_normal,
+193,Consumer loans,,POS,Clothing and Accessories,high,Non-cash from your account
+194,Consumer loans,,POS,Consumer Electronics,high,Non-cash from your account
+195,Consumer loans,,POS,Insurance,high,Cash through the bank
+196,Revolving loans,x-sell,Cards,Consumer Electronics,,
+197,Consumer loans,,POS,Other,high,
+198,Cash loans,walk-in,Cash,,low_action,
+199,Consumer loans,,POS,Computers,low_normal,Non-cash from your account
+200,Consumer loans,,POS,Office Appliances,low_normal,
+201,Consumer loans,,POS,Photo / Cinema Equipment,middle,Cashless from the account of the employer
+202,Consumer loans,,POS,Computers,low_action,Non-cash from your account
+203,Cash loans,x-sell,Cash,,high,Cashless from the account of the employer
+204,Consumer loans,,POS,Clothing and Accessories,low_normal,Non-cash from your account
+205,Consumer loans,,POS,Additional Service,low_normal,Cash through the bank
+206,Consumer loans,,,Gardening,,Cash through the bank
+207,Consumer loans,,Cars,,low_action,Cash through the bank
+208,Consumer loans,,POS,Tourism,low_action,Cash through the bank
+209,Consumer loans,,POS,Other,middle,
+210,Consumer loans,,POS,Homewares,high,Cash through the bank
+211,Consumer loans,,POS,Medical Supplies,middle,
+212,Consumer loans,,POS,Insurance,low_normal,Cash through the bank
+213,Consumer loans,,POS,Clothing and Accessories,middle,Non-cash from your account
+214,Consumer loans,,POS,Weapon,high,Cash through the bank
+215,Consumer loans,,POS,Photo / Cinema Equipment,high,Non-cash from your account
+216,Consumer loans,,POS,Auto Accessories,middle,Non-cash from your account
+217,Consumer loans,,POS,Homewares,middle,
+218,Consumer loans,,POS,Auto Accessories,high,
+219,Consumer loans,,POS,Jewelry,low_normal,
+220,Consumer loans,,POS,Homewares,high,
+221,Consumer loans,,POS,Homewares,low_normal,Non-cash from your account
+222,Consumer loans,,POS,Gardening,high,
+223,Consumer loans,,POS,Consumer Electronics,low_action,Non-cash from your account
+224,Consumer loans,,,Homewares,,Cash through the bank
+225,Consumer loans,,POS,Tourism,low_normal,
+226,Consumer loans,,POS,Construction Materials,high,Non-cash from your account
+227,Consumer loans,,POS,Construction Materials,middle,Non-cash from your account
+228,Consumer loans,,POS,Fitness,middle,Cash through the bank
+229,Cash loans,walk-in,Cash,,middle,Cashless from the account of the employer
+230,Consumer loans,,,,,
+231,Consumer loans,,POS,Sport and Leisure,low_action,Non-cash from your account
+232,Consumer loans,,POS,Tourism,middle,
+233,Consumer loans,,POS,Photo / Cinema Equipment,middle,Non-cash from your account
+234,Consumer loans,,POS,Furniture,high,Cashless from the account of the employer
+235,Consumer loans,,POS,Vehicles,high,
+236,Consumer loans,,POS,,high,Non-cash from your account
+237,Cash loans,x-sell,Cash,,high,Non-cash from your account
+238,Consumer loans,,POS,Medicine,middle,
+239,Consumer loans,,,Clothing and Accessories,,Cash through the bank
+240,Consumer loans,,POS,Furniture,middle,Non-cash from your account
+241,Consumer loans,,POS,Jewelry,high,
+242,Consumer loans,,POS,Photo / Cinema Equipment,low_action,
+243,Consumer loans,,,Mobile,,Non-cash from your account
+244,Consumer loans,,POS,Sport and Leisure,low_action,Cash through the bank
+245,Consumer loans,,POS,Tourism,high,Cash through the bank
+246,Consumer loans,,POS,Additional Service,low_normal,
+247,Consumer loans,,,Auto Accessories,,
+248,Cash loans,x-sell,Cash,,low_normal,Cashless from the account of the employer
+249,Consumer loans,,POS,Gardening,low_normal,Non-cash from your account
+250,Consumer loans,,POS,Medicine,low_action,
+251,Consumer loans,,POS,Weapon,middle,
+252,Consumer loans,,,Auto Accessories,,Cash through the bank
+253,Consumer loans,,POS,Consumer Electronics,middle,Cashless from the account of the employer
+254,Consumer loans,,,Computers,,
+255,Consumer loans,,POS,Furniture,high,Non-cash from your account
+256,Consumer loans,,POS,Other,high,Non-cash from your account
+257,Consumer loans,,POS,Clothing and Accessories,high,
+258,Cash loans,walk-in,Cash,,low_normal,Non-cash from your account
+259,Consumer loans,,POS,Additional Service,middle,Cash through the bank
+260,Cash loans,x-sell,Cash,,middle,Cashless from the account of the employer
+261,Consumer loans,,,Jewelry,,Cash through the bank
+262,Consumer loans,,,Clothing and Accessories,,
+263,Consumer loans,,POS,Other,low_action,Cash through the bank
+264,Consumer loans,,,Construction Materials,,Cash through the bank
+265,Consumer loans,,POS,,low_normal,Non-cash from your account
+266,Consumer loans,,Cars,,low_normal,
+267,Consumer loans,,POS,Vehicles,low_action,Cash through the bank
+268,Consumer loans,,POS,Office Appliances,low_action,
+269,Cash loans,x-sell,Cash,,low_action,Non-cash from your account
+270,Consumer loans,,POS,Jewelry,low_action,
+271,Consumer loans,,,Consumer Electronics,,
+272,Consumer loans,,POS,Auto Accessories,low_action,Non-cash from your account
+273,Consumer loans,,Cars,,low_action,
+274,Cash loans,walk-in,Cash,,middle,Non-cash from your account
+275,Consumer loans,,POS,Education,low_normal,
+276,Consumer loans,,POS,Weapon,middle,Cash through the bank
+277,Cash loans,walk-in,Cash,,low_normal,Cashless from the account of the employer
+278,Consumer loans,,POS,Consumer Electronics,low_normal,Cashless from the account of the employer
+279,Consumer loans,,POS,Other,low_normal,Non-cash from your account
+280,Consumer loans,,POS,Audio/Video,low_normal,Cashless from the account of the employer
+281,Revolving loans,x-sell,Cards,Mobile,,
+282,Revolving loans,x-sell,Cards,Furniture,,
+283,Consumer loans,,,Furniture,,Non-cash from your account
+284,Consumer loans,,POS,Other,low_action,
+285,Consumer loans,,POS,Sport and Leisure,high,Non-cash from your account
+286,Consumer loans,,POS,Computers,middle,Cashless from the account of the employer
+287,Consumer loans,,POS,Consumer Electronics,high,Cashless from the account of the employer
+288,Consumer loans,,POS,Jewelry,high,Non-cash from your account
+289,Consumer loans,,POS,,low_normal,Cashless from the account of the employer
+290,Consumer loans,,POS,Auto Accessories,high,Non-cash from your account
+291,Consumer loans,,,Photo / Cinema Equipment,,
+292,Consumer loans,,POS,,middle,Non-cash from your account
+293,Consumer loans,,,Sport and Leisure,,Cash through the bank
+294,Consumer loans,,,,,Cash through the bank
+295,Consumer loans,,POS,Vehicles,low_normal,Non-cash from your account
+296,Consumer loans,,POS,Direct Sales,low_action,Cash through the bank
+297,Consumer loans,,POS,Direct Sales,middle,Cash through the bank
+298,Consumer loans,,POS,Tourism,high,
+299,Consumer loans,,POS,Auto Accessories,low_action,
+300,Consumer loans,,POS,Homewares,middle,Non-cash from your account
+301,Consumer loans,,POS,Furniture,low_normal,Cashless from the account of the employer
+302,Consumer loans,,POS,Direct Sales,middle,
+303,Consumer loans,,POS,Vehicles,middle,Non-cash from your account
+304,Consumer loans,,POS,Insurance,middle,
+305,Consumer loans,,POS,Office Appliances,middle,Non-cash from your account
+306,Consumer loans,,POS,Additional Service,high,Cash through the bank
+307,Consumer loans,,POS,Gardening,low_action,
+308,Consumer loans,,POS,Audio/Video,high,Cashless from the account of the employer
+309,Cash loans,walk-in,Cash,,low_action,Cashless from the account of the employer
+310,Revolving loans,x-sell,Cards,Computers,,
+311,Cash loans,x-sell,Cash,,low_action,Cashless from the account of the employer
+312,Consumer loans,,POS,Furniture,low_action,Non-cash from your account
+313,Consumer loans,,POS,,low_action,Cashless from the account of the employer
+314,Consumer loans,,POS,Auto Accessories,middle,Cashless from the account of the employer
+315,Consumer loans,,POS,Sport and Leisure,low_normal,Non-cash from your account
+316,Consumer loans,,POS,Consumer Electronics,low_action,Cashless from the account of the employer
+317,Consumer loans,,POS,Mobile,low_normal,Cashless from the account of the employer
+318,Consumer loans,,POS,Medicine,high,Cash through the bank
+319,Consumer loans,,POS,Audio/Video,low_action,Cashless from the account of the employer
+320,,,,,,
+321,Consumer loans,,POS,Education,high,Cash through the bank
+322,Consumer loans,,POS,Mobile,low_action,Non-cash from your account
+323,Consumer loans,,POS,Direct Sales,low_action,
+324,Consumer loans,,POS,Insurance,high,
+325,Consumer loans,,POS,Gardening,middle,Non-cash from your account
+326,Consumer loans,,POS,Clothing and Accessories,high,Cashless from the account of the employer
+327,Cash loans,walk-in,Cash,,low_action,Non-cash from your account
+328,Consumer loans,,POS,Photo / Cinema Equipment,high,Cashless from the account of the employer
+329,Consumer loans,,POS,,low_action,Non-cash from your account
+330,Consumer loans,,POS,Photo / Cinema Equipment,low_action,Non-cash from your account
+331,Consumer loans,,POS,Animals,low_normal,Cash through the bank
+332,Consumer loans,,,Vehicles,,Cash through the bank
+333,Consumer loans,,POS,Weapon,low_normal,Cash through the bank
+334,Consumer loans,,POS,Additional Service,low_action,Cash through the bank
+335,Consumer loans,,POS,Additional Service,low_action,
+336,Consumer loans,,POS,Construction Materials,middle,Cashless from the account of the employer
+337,Consumer loans,,POS,Insurance,low_normal,
+338,Consumer loans,,POS,Construction Materials,low_normal,Cashless from the account of the employer
+339,Consumer loans,,,Office Appliances,,
+340,Consumer loans,,POS,Office Appliances,low_normal,Non-cash from your account
+341,Consumer loans,,,Photo / Cinema Equipment,,Non-cash from your account
+342,Consumer loans,,POS,Additional Service,low_normal,Non-cash from your account
+343,Consumer loans,,POS,Homewares,low_action,Non-cash from your account
+344,Consumer loans,,POS,Office Appliances,low_action,Non-cash from your account
+345,Consumer loans,,,Computers,,Cashless from the account of the employer
+346,Consumer loans,,POS,Fitness,middle,
+347,Consumer loans,,POS,Homewares,middle,Cashless from the account of the employer
+348,Consumer loans,,POS,Mobile,middle,Cashless from the account of the employer
+349,Consumer loans,,Cars,,low_normal,Cashless from the account of the employer
+350,Consumer loans,,POS,Medicine,low_normal,Non-cash from your account
+351,Consumer loans,,POS,Jewelry,middle,Cashless from the account of the employer
+352,Cash loans,,,,,Non-cash from your account
+353,Consumer loans,,POS,Additional Service,middle,
+354,Consumer loans,,POS,Photo / Cinema Equipment,low_action,Cashless from the account of the employer
+355,Consumer loans,,POS,Auto Accessories,low_normal,Non-cash from your account
+356,Consumer loans,,POS,Tourism,middle,Non-cash from your account
+357,Consumer loans,,POS,Medical Supplies,high,Cash through the bank
+358,Consumer loans,,,Tourism,,Cash through the bank
+359,Consumer loans,,POS,Education,low_action,Cash through the bank
+360,Consumer loans,,POS,Insurance,middle,Cash through the bank
+361,Consumer loans,,,Furniture,,
+362,Consumer loans,,POS,Jewelry,middle,Non-cash from your account
+363,Consumer loans,,POS,Other,low_normal,Cashless from the account of the employer
+364,Consumer loans,,POS,Direct Sales,low_action,Cashless from the account of the employer
+365,Consumer loans,,POS,Sport and Leisure,low_action,
+366,Consumer loans,,POS,Gardening,high,Non-cash from your account
+367,Consumer loans,,POS,,high,Cashless from the account of the employer
+368,Consumer loans,,POS,Fitness,low_action,
+369,Consumer loans,,POS,Office Appliances,high,Cashless from the account of the employer
+370,Consumer loans,,POS,Vehicles,low_action,
+371,Consumer loans,,,Consumer Electronics,,Non-cash from your account
+372,Consumer loans,,POS,Additional Service,high,
+373,Consumer loans,,POS,Medical Supplies,low_normal,Non-cash from your account
+374,Consumer loans,,POS,Weapon,middle,Non-cash from your account
+375,Consumer loans,,POS,Tourism,low_normal,Non-cash from your account
+376,Consumer loans,,POS,Other,middle,Non-cash from your account
+377,Consumer loans,,,Construction Materials,,
+378,Consumer loans,,POS,Mobile,low_action,Cashless from the account of the employer
+379,Consumer loans,,POS,Direct Sales,high,Cash through the bank
+380,Consumer loans,,,Weapon,,Cash through the bank
+381,Consumer loans,,POS,Weapon,low_normal,
+382,Consumer loans,,,Mobile,,Cashless from the account of the employer
+383,Consumer loans,,POS,Medicine,high,
+384,Consumer loans,,POS,Photo / Cinema Equipment,low_normal,Cashless from the account of the employer
+385,Consumer loans,,POS,Construction Materials,high,Cashless from the account of the employer
+386,Consumer loans,,,Vehicles,,
+387,Consumer loans,,POS,Clothing and Accessories,low_action,Non-cash from your account
+388,Consumer loans,,POS,Computers,low_action,Cashless from the account of the employer
+389,Consumer loans,,POS,Vehicles,middle,Cashless from the account of the employer
+390,Consumer loans,,POS,Medical Supplies,low_action,Non-cash from your account
+391,Consumer loans,,,Computers,,Non-cash from your account
+392,Consumer loans,,POS,Jewelry,low_normal,Non-cash from your account
+393,Revolving loans,x-sell,Cards,Photo / Cinema Equipment,,
+394,Consumer loans,,POS,Additional Service,low_normal,Cashless from the account of the employer
+395,Consumer loans,,,Audio/Video,,Non-cash from your account
+396,Consumer loans,,POS,Homewares,low_normal,Cashless from the account of the employer
+397,Consumer loans,,POS,Fitness,low_normal,Non-cash from your account
+398,Consumer loans,,POS,Direct Sales,low_normal,Non-cash from your account
+399,Consumer loans,,POS,Medical Supplies,high,
+400,Consumer loans,,POS,Sport and Leisure,high,Cashless from the account of the employer
+401,Consumer loans,,POS,Office Appliances,middle,Cashless from the account of the employer
+402,Consumer loans,,POS,Other,low_action,Non-cash from your account
+403,Consumer loans,,POS,Sport and Leisure,middle,Cashless from the account of the employer
+404,Consumer loans,,POS,Tourism,middle,Cashless from the account of the employer
+405,Consumer loans,,POS,Auto Accessories,high,Cashless from the account of the employer
+406,Consumer loans,,POS,House Construction,low_normal,Cash through the bank
+407,Revolving loans,x-sell,Cards,Other,,
+408,Consumer loans,,POS,Weapon,low_action,Cash through the bank
+409,Consumer loans,,,Clothing and Accessories,,Non-cash from your account
+410,Consumer loans,,POS,Homewares,low_action,Cashless from the account of the employer
+411,Consumer loans,,POS,Furniture,low_action,Cashless from the account of the employer
+412,Consumer loans,,POS,Vehicles,high,Cashless from the account of the employer
+413,Consumer loans,,POS,Sport and Leisure,low_normal,Cashless from the account of the employer
+414,Consumer loans,,POS,Gardening,low_action,Non-cash from your account
+415,Consumer loans,,,Sport and Leisure,,Non-cash from your account
+416,Consumer loans,,,Homewares,,
+417,Consumer loans,,POS,Clothing and Accessories,low_action,Cashless from the account of the employer
+418,Consumer loans,,POS,Clothing and Accessories,middle,Cashless from the account of the employer
+419,Consumer loans,,POS,Education,low_action,
+420,Consumer loans,,POS,Homewares,high,Non-cash from your account
+421,Consumer loans,,,Audio/Video,,Cashless from the account of the employer
+422,Consumer loans,,POS,Insurance,high,Non-cash from your account
+423,Consumer loans,,POS,Insurance,low_normal,Non-cash from your account
+424,Consumer loans,,POS,Medical Supplies,middle,Non-cash from your account
+425,Consumer loans,,,Clothing and Accessories,,Cashless from the account of the employer
+426,Consumer loans,,Cars,,middle,Cash through the bank
+427,Consumer loans,,POS,Jewelry,high,Cashless from the account of the employer
+428,Consumer loans,,POS,Fitness,high,
+429,Consumer loans,,POS,Weapon,high,
+430,Consumer loans,,POS,Insurance,low_action,Cash through the bank
+431,Consumer loans,,POS,Tourism,high,Non-cash from your account
+432,Consumer loans,,POS,Medicine,middle,Non-cash from your account
+433,Consumer loans,,,Gardening,,
+434,Consumer loans,,,Sport and Leisure,,
+435,Consumer loans,,POS,Construction Materials,low_action,Cashless from the account of the employer
